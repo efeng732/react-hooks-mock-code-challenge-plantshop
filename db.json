@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Junie",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/18/2020/06/JI_240619_KeithWiley_124-cb0a37e.jpg?quality=90&resize=799%2C340",
+      "price": "4.20",
+      "id": 8
     }
   ]
 }
